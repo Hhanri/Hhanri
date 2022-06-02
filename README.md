@@ -15,9 +15,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hhanri&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hhanri&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## Certificates
+![](https://github.com/Hhanri/Hhanri/blob/main/CS50x%20letter.png)
+![](https://github.com/Hhanri/Hhanri/blob/main/CS50AI%20letter.png)
+
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hhanri&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hhanri&icon=0&color=0)](https://visitcount.itsvg.in)
-
