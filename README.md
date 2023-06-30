@@ -21,4 +21,4 @@
 ![CS50AI](https://github.com/Hhanri/Hhanri/blob/main/CS50AI%20letter.png)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hhanri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Hhanri&theme=radical&no-frame=false&no-bg=false&margin-w=4)
