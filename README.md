@@ -1,7 +1,6 @@
 # 💫 About Me:
-- Junior Flutter Developper
-- Learning Flutter
-- Looking to work as Freelancer
+- Flutter Developper
+- Weklean Co-founder
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HhanriDev) 
